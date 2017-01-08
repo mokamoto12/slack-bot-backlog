@@ -1,0 +1,39 @@
+{
+  "created": "2017-01-08T09:03:47Z",
+  "project": {
+    "archived": false,
+    "projectKey": "TEST",
+    "name": "TestProject",
+    "chartEnabled": false,
+    "id": 100,
+    "subtaskingEnabled": false
+  },
+  "id": 10,
+  "type": 18,
+  "content": {
+    "summary": "test pull request",
+    "number": 100,
+    "issue": null,
+    "changes": [],
+    "description": "test description",
+    "diff": null,
+    "comment": null,
+    "id": 100,
+    "repository": {
+      "name": "test repository",
+      "description": "test description",
+      "id": 100
+    },
+    "branch": "feature",
+    "base": "master"
+  },
+  "notifications": [],
+  "createdUser": {
+    "nulabAccount": null,
+    "name": "mokamoto12",
+    "mailAddress": null,
+    "id": 68572,
+    "roleType": 1,
+    "userId": null
+  }
+}
